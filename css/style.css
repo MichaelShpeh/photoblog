@@ -1,0 +1,13 @@
+/* body {
+    background-color: yellow;
+} */
+:root {
+    --color-main: #626262;
+    --color-hover: #03A9F4;
+    --color-second: #7D7D7D;
+    --color-third: #B4AD9E;
+}
+
+h2 {
+    font-family: "Playfair Display";
+}
